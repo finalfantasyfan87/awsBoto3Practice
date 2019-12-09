@@ -1,5 +1,4 @@
 import boto3
-import logging
 s3 = boto3.client('s3')
 """ :type : pyboto3.s3 """
 #prompt user for bucket name
